@@ -4,42 +4,6 @@ Es una aplicacion de gestion de base de datos para el manejo y analisis de la in
 El principal problema que vi es en el área de reclutamiento, selección y entrenamiento utilizan mucho papel para realizar procedimientos diariamente, una idea para la reducción de gastos dentro de ese departamento es la creación de una aplicación en Power Apps.
 Se realizará una aplicación con los mismos datos que contiene el documento a migrar dándole así un mejor uso y pudiendo dar mejor servicio.
 La princiapl razon es migrar toda la docuentacion a una aplicacion.
-# Tabla de contenidos
-  **Proyecto** 
-
-  - **Build**
-      - Built jar.properties
-      - clasess
-        - Librerias
-          - jxl_1.jar
-          - jxl.jar
-        - PAIM
-          - Archivos .class
-          - Archivos .form
-      - Empty
-      - Generated sources
-    - **nbproject**
-      - build.impl.xml
-      - genfiles.properties
-      - private
-        - config.properties
-        - private.properties
-        - private.xml
-      - project.properties
-      - project.xml
-    - **src**
-      - PAIM
-        - Archivos .class
-        - Archivos .form
-      - Liberias
-        - jxl_1.jar
-        - jxl.jar
-    - **dist**
-      - PAIM.jar
-      - lib
-        - archivos .jar (librerias del proyecto)
-      - readme.txt
-     - **test**
 
 ## Requerimientos 
 
