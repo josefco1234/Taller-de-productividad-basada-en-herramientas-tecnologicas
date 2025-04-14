@@ -96,7 +96,6 @@ La princiapl razon es migrar toda la docuentacion a una aplicacion.
 
 ## Contribucion
    - Abrimos el repositorio 
-   - Link del repositorio (https://github.com/BraulioVazquez/Taller-de-productividad-basada-en-herramientas-tecnol-gicas)
    - En el branch "master" podemos encontrar la version mas actual del software y la mas completa y estable
    - Del lado derecho tenemos la opcion de clone or download
    - Tenemos dos opciones a elegir (abrir en el equipo o descargar como zip)
